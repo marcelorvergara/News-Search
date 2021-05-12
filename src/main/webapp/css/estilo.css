@@ -1,0 +1,9 @@
+.quadrado{
+    width: 600px;
+    padding: 1.5rem;
+    margin-right: 20px;
+    margin-left: 200px;
+    border: 1px solid #dee2e6;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
